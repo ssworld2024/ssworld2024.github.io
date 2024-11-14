@@ -1,0 +1,5 @@
+title: Get Online 123
+permalink: pretty
+plugins:
+  - jekyll-redirect-from
+  - jekyll-seo-tag
